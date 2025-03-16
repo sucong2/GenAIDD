@@ -17,5 +17,5 @@ Watson, Joseph L., David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason 
 Luo, Shitong, and Jianfeng Lu. 2024. "Structure-Based Drug Design with Equivariant Diffusion Models." Nature Computational Science 4 (1): 67–75. https://doi.org/10.1038/s43588-024-00737-x.
 
 ##### Subin Kim
-###### Molecules (MDPI), 2022, predicting the synthetic accessibility of organic compounds. Predicting Organic Synthesis Accessibility via Chemical Reaction Networks and Deep Learning https://www.mdpi.com/1420-3049/27/3/1039
+###### Molecules (MDPI), 2022, predicting the synthetic accessibility of organic compounds. Prediction of Compound Synthesis Accessibility Based on Reaction Knowledge Graph https://www.mdpi.com/1420-3049/27/3/1039
 
